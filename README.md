@@ -1,16 +1,71 @@
-## Hi there 👋
+<h2 align="center">Hi 👋, I'm Aryan Gupta</h2>
+<h3 align="center">💻 Full Stack Developer | React | Node.js | MongoDB | PostgreSQL | TypeScript</h3>
 
-<!--
-**aryan10092/aryan10092** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=700&lines=Full+Stack+Web+Developer;Building+robust+apps+with+clean+code+and+modern+stacks;React+%7C+Node+%7C+Next.js+%7C+TypeScript+%7C+SQL+%7C+MongoDB" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<table width="100%">
+  <tr>
+    <td valign="top" width="50%">
+      <!-- GitHub stats -->
+      <a href="https://github.com/MetalCloth">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MetalCloth&theme=radical&title_color=00BFFF" alt="GitHub Stats" />
+      </a>
+      <a href="https://github.com/MetalCloth">
+        <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=MetalCloth&theme=radical&ring=00BFFF&fire=00BFFF" alt="GitHub Streak" />
+      </a>
+    </td>
+    <td valign="top" width="50%" align="right">
+      <!-- Your image -->
+      <img src="https://github.com/user-attachments/assets/db876121-00cc-4ddd-a3ae-ca76d9394499" alt="Aryan's Avatar" width="300px" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🧰 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,redux,git,github,vercel,docker" />
+</p>
+
+---
+
+### 🌐 Connect with Me
+
+<p align="left">
+  <a href="mailto:your-email@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://leetcode.com/your-leetcode/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  </a>
+  <a href="https://x.com/your-twitter" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <img src="https://img.shields.io/badge/Discord-YourUsername%230000-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+</p>
+
+---
+
+### 🧑‍💻 About Me
+
+- 🌱 I'm a full stack developer with a focus on **React**, **Next.js**, **Node.js**, and **PostgreSQL**
+- 💼 Experienced in building **responsive UIs**, **RESTful APIs**, and **end-to-end applications**
+- 🧪 Passionate about clean code, scalability, and performance
+- 🚀 Currently learning advanced system design and DevOps
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
