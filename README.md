@@ -15,7 +15,7 @@
       </a>
     </td>
     <td valign="top" width="50%" align="center" >
-       <img src="https://github.com/user-attachments/assets/71168515-32d2-46f2-b5e2-7a8810dc7729" width="400" height="350" alt="Funny dev gif" />
+       <img src="https://github.com/user-attachments/assets/71168515-32d2-46f2-b5e2-7a8810dc7729" width="400"  alt="Funny dev gif" />
 
       
   </td>
