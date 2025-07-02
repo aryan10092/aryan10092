@@ -1,8 +1,8 @@
 <h2 align="center">Hi 👋, I'm Aryan Gupta</h2>
-<h3 align="center">💻 Full Stack Developer | React | Node.js | MongoDB | PostgreSQL | TypeScript</h3>
+<h3 align="center">💻 Full Stack Developer | React | Node.js | MongoDB | PostgreSQL | TypeScript | Web Socket</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=700&lines=Full+Stack+Web+Developer;Building+robust+apps+with+clean+code+and+modern+stacks;React+%7C+Node+%7C+Next.js+%7C+TypeScript+%7C+SQL+%7C+MongoDB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=700&lines=Full+Stack+Web+Developer;Building+robust+apps+with+clean+code+and+modern+stacks;React+%7C+Node+%7C+Next.js+%7C+TypeScript+%7C+Web Socket+%7C+SQL+%7C+MongoDB" />
 </p>
 
 ---
@@ -32,11 +32,6 @@
 <p align="center">
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,redux,git,github,vercel,docker,aws" />
-
-  <!-- Manual Icons -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React Native" />
-  <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="40px" title="Framer Motion" />
-  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="40px" title="Socket.IO" />
 </p>
 
 
@@ -53,7 +48,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.aryantech.me/" target="_blank">
-    <img src="" />
+    
   </a>
   <!-- 
   <a href="https://x.com/your-twitter" target="_blank">
