@@ -15,7 +15,7 @@
       </a>
     </td>
     <td valign="top" width="50%" align="center" >
-       <img src="https://github.com/user-attachments/assets/54cad2a7-56ce-4917-9588-47b905d6b8c9" width="400" height="350" alt="Funny dev gif" />
+       <img src="https://github.com/user-attachments/assets/71168515-32d2-46f2-b5e2-7a8810dc7729" width="400" height="350" alt="Funny dev gif" />
 
       
   </td>
@@ -44,6 +44,8 @@
   </a>
   <a href="https://www.aryantech.me/" target="_blank" style="margin-right: 10px;">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" height="40px" />
+    
+
   </a>
 </p>
 
