@@ -18,10 +18,10 @@
         <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=aryan10092&theme=radical&ring=00BFFF&fire=00BFFF" alt="GitHub Streak" />
       </a>
     </td>
-    <td valign="top" width="50%" align="right">
+<!--     <td valign="top" width="50%" align="right">
       <!-- Your image -->
       <img src="https://github.com/user-attachments/assets/db876121-00cc-4ddd-a3ae-ca76d9394499" alt="Aryan's Avatar" width="300px" />
-    </td>
+    </td> -->
   </tr>
 </table>
 
