@@ -2,7 +2,7 @@
 <h3 align="center">💻 Full Stack Developer | React | Node.js | MongoDB | PostgreSQL | TypeScript | Web Socket</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=700&lines=Full+Stack+Web+Developer;Building+robust+apps+with+clean+code+and+modern+stacks;React+%7C+Node+%7C+Next.js+%7C+TypeScript+%7C+Web Socket+%7C+SQL+%7C+MongoDB" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00BFFF&width=700&lines=Full+Stack+Web+Developer;Building+robust+apps+with+clean+code+and+modern+stacks;React+%7C+Node+%7C+Next.js+%7C+TypeScript+%7C+Web-Socket+%7C+SQL+%7C+MongoDB" />
 </p>
 
 ---
