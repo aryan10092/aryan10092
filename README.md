@@ -11,10 +11,10 @@
   <tr>
     <td valign="top" width="50%">
       <!-- GitHub stats on the left -->
-      <a href="https://github.com/MetalCloth">
+      <a href="https://github.com/aryan10092">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=aryan10092&theme=radical&title_color=ff3068?" alt="GitHub Stats" />
       </a>
-      <a href="https://github.com/MetalCloth">
+      <a href="https://github.com/aryan10092">
         <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=aryan10092&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak" />
       </a>
     </td>
