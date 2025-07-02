@@ -20,7 +20,7 @@
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdubnh4OTZtejJ2eWN4ZHV1enVpbDJjcms1d3k3cjdnNzNtaXY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif" width="400" alt="Funny dev gif" />
  
      
-       </td>
+ </td>
   </tr>
 </table>
 ---
