@@ -11,10 +11,10 @@
   <tr>
     <td valign="top" width="50%">
       <!-- GitHub stats -->
-      <a href="https://github.com/MetalCloth">
+      <a href="https://github.com/aryan10092">
         <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MetalCloth&theme=radical&title_color=00BFFF" alt="GitHub Stats" />
       </a>
-      <a href="https://github.com/MetalCloth">
+      <a href="https://github.com/aryan10092">
         <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=MetalCloth&theme=radical&ring=00BFFF&fire=00BFFF" alt="GitHub Streak" />
       </a>
     </td>
@@ -30,7 +30,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,redux,git,github,vercel,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,web-sockets,postgresql,tailwind,redux,git,github,vercel,docker" />
 </p>
 
 ---
