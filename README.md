@@ -30,8 +30,15 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,socket,mongodb,postgresql,reactnative,framer,tailwind,redux,git,github,vercel,docker,aws" />
+  <!-- Skillicons -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,redux,git,github,vercel,docker,aws" />
+
+  <!-- Manual Icons -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40px" title="React Native" />
+  <img src="https://avatars.githubusercontent.com/u/53986236?s=200&v=4" width="40px" title="Framer Motion" />
+  <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" width="40px" title="Socket.IO" />
 </p>
+
 
 
 ---
@@ -46,7 +53,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.aryantech.me/" target="_blank">
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fportfolio-logo%2F&psig=AOvVaw1S7uvGM-w_AodwhQlZMmLq&ust=1751561012728000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCTjL7Pno4DFQAAAAAdAAAAABAE" />
+    <img src="" />
   </a>
   <!-- 
   <a href="https://x.com/your-twitter" target="_blank">
