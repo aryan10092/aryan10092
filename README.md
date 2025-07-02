@@ -41,14 +41,14 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:aryan9090900@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:aryan9090900@gmail.com" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="40px" />
   </a>
-  <a href="https://www.linkedin.com/in/aryan-gupta-6a700a341/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.linkedin.com/in/aryan-gupta-6a700a341/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="40px" />
   </a>
-  <a href="https://www.aryantech.me/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" />
+  <a href="https://www.aryantech.me/" target="_blank" style="margin-right: 10px;">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox-browser&logoColor=white" height="40px" />
   </a>
 </p>
 
