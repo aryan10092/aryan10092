@@ -15,9 +15,10 @@
       </a>
     </td>
     <td valign="top" width="50%" align="center">
-      <!-- GIF image on the right -->
-      <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdubnh4OTZtejJ2eWN4ZHV1enVpbDJjcms1d3k3cjdnNzNtaXY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif" width="400" alt="Funny dev gif" />
-    </td>
+     ![sad samurai champloo GIF](https://github.com/user-attachments/assets/54cad2a7-56ce-4917-9588-47b905d6b8c9)
+
+      
+  </td>
   </tr>
 </table>
 
