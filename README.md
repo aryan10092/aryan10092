@@ -14,7 +14,7 @@
         <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=aryan10092&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak" />
       </a>
     </td>
-    <td valign="top" width="50%" align="center">
+    <td valign="top" width="50%" align="center" height="600">
        <img src="https://github.com/user-attachments/assets/54cad2a7-56ce-4917-9588-47b905d6b8c9" width="400" alt="Funny dev gif" />
 
       
