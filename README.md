@@ -30,8 +30,9 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,sockets,motion,postgresql,tailwind,redux,git,github,vercel,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,socket,mongodb,postgresql,reactnative,framer,tailwind,redux,git,github,vercel,docker,aws" />
 </p>
+
 
 ---
 
@@ -41,7 +42,7 @@
   <a href="mailto:aryan9090900@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/aryan-gupta-6a700a341/)" target="_blank">
+  <a href="https://www.linkedin.com/in/aryan-gupta-6a700a341/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 <!--   <a href="https://leetcode.com/your-leetcode/" target="_blank">
