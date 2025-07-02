@@ -45,9 +45,10 @@
   <a href="https://www.linkedin.com/in/aryan-gupta-6a700a341/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-<!--   <a href="https://leetcode.com/your-leetcode/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
+  <a href="https://www.aryantech.me/" target="_blank">
+    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ffreebiesupply.com%2Flogos%2Fportfolio-logo%2F&psig=AOvVaw1S7uvGM-w_AodwhQlZMmLq&ust=1751561012728000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCNCTjL7Pno4DFQAAAAAdAAAAABAE" />
   </a>
+  <!-- 
   <a href="https://x.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a> -->
