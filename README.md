@@ -1,8 +1,6 @@
 <h2 align="center">Hi 👋, I'm Aryan Gupta</h2>
 <h3 align="center">💻 Full Stack Developer | React | Node.js | MongoDB | PostgreSQL | TypeScript | Web Socket</h3>
 
-
-
 ---
 
 <table width="100%">
@@ -10,19 +8,19 @@
     <td valign="top" width="50%">
       <!-- GitHub stats on the left -->
       <a href="https://github.com/aryan10092">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=aryan10092&theme=radical&title_color=ff3068?" alt="GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=aryan10092&theme=radical&title_color=ff3068" alt="GitHub Stats" />
       </a>
       <a href="https://github.com/aryan10092">
         <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=aryan10092&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=ff3068&fire=ff3068&sideNums=ff3068" alt="GitHub Streak" />
       </a>
     </td>
-    <td valign="top" width="50%" align="right">
+    <td valign="top" width="50%" align="center">
+      <!-- GIF image on the right -->
       <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZGdubnh4OTZtejJ2eWN4ZHV1enVpbDJjcms1d3k3cjdnNzNtaXY2cyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/1gLZ32bMP5pY52PBsm/giphy.gif" width="400" alt="Funny dev gif" />
- 
-     
- </td>
+    </td>
   </tr>
 </table>
+
 ---
 
 ### 🧰 Tech Stack
@@ -31,8 +29,6 @@
   <!-- Skillicons -->
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,postgresql,tailwind,redux,git,github,vercel,docker,aws" />
 </p>
-
-
 
 ---
 
