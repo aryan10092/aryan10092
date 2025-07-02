@@ -12,10 +12,10 @@
     <td valign="top" width="50%">
       <!-- GitHub stats -->
       <a href="https://github.com/aryan10092">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=MetalCloth&theme=radical&title_color=00BFFF" alt="GitHub Stats" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api?username=aryan10092&theme=radical&title_color=00BFFF" alt="GitHub Stats" />
       </a>
       <a href="https://github.com/aryan10092">
-        <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=MetalCloth&theme=radical&ring=00BFFF&fire=00BFFF" alt="GitHub Streak" />
+        <img width="100%" src="http://github-readme-streak-stats.herokuapp.com/?user=aryan10092&theme=radical&ring=00BFFF&fire=00BFFF" alt="GitHub Streak" />
       </a>
     </td>
     <td valign="top" width="50%" align="right">
@@ -30,7 +30,7 @@
 ### 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,web-sockets,postgresql,tailwind,redux,git,github,vercel,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,sockets,motion,postgresql,tailwind,redux,git,github,vercel,docker" />
 </p>
 
 ---
@@ -38,18 +38,18 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:aryan9090900@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank">
+  <a href="https://www.linkedin.com/in/(https://www.linkedin.com/in/aryan-gupta-6a700a341/)" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/your-leetcode/" target="_blank">
+<!--   <a href="https://leetcode.com/your-leetcode/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" />
   </a>
   <a href="https://x.com/your-twitter" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+  </a> -->
   <img src="https://img.shields.io/badge/Discord-YourUsername%230000-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
