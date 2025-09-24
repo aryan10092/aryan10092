@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Aryan Gupta</h2>
-<h3 align="center">💻 Full Stack Developer | React | Node.js | MongoDB | PostgreSQL | TypeScript | Web Socket</h3>
+<h3 align="center">💻 Full Stack Developer | React | Node.js | React Native | MongoDB | PostgreSQL | TypeScript | Web Socket | Docker | AWS</h3>
 
 ---
 
