@@ -16,15 +16,15 @@
   </a>
 
    </td>
-    <div valign="top" width="50%" height="100%" align="center" >
+    <td valign="top" width="50%" height="100%" align="center" >
 
-     <h2>🏆 Hacktoberfest Badges for OS contribution</h2>
+     ##🏆 Hacktoberfest Badges for OS contribution
 <p align="center">
   <a href="https://holopin.io/@aryan10092">
     <img src="https://holopin.me/aryan10092" width="400" alt="@aryan10092's Holopin board" />
   </a>
 </p>
-  </div>
+  </td>
   </tr>
 </table>
 
