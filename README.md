@@ -16,8 +16,7 @@
   </a>
 
    </td>
-    <td valign="top" width="50%" height="100%" align="center" >
-        <!-- <img src="https://github.com/user-attachments/assets/71168515-32d2-46f2-b5e2-7a8810dc7729" width="400" height="360" alt="Funny dev gif" />  -->
+    <div valign="top" width="50%" height="100%" align="center" >
 
      <h2>🏆 Hacktoberfest Badges for OS contribution</h2>
 <p align="center">
@@ -25,7 +24,7 @@
     <img src="https://holopin.me/aryan10092" width="400" alt="@aryan10092's Holopin board" />
   </a>
 </p>
-  </td>
+  </div>
   </tr>
 </table>
 
