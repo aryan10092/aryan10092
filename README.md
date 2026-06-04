@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Aryan Gupta</h2>
-<h3 align="center">💻 Full Stack Developer | React | Node.js | React Native | MongoDB | PostgreSQL | TypeScript | Web Socket | Docker | AWS</h3>
+<h3 align="center">💻 Full Stack Developer | React | Node.js | React Native | MongoDB | PostgreSQL | TypeScript | Web Socket | Docker | AWS | GenAI</h3>
 
 ---
 
@@ -62,6 +62,7 @@
 ### 🧑‍💻 About Me
 
 - 🌱 I'm a full stack developer with a focus on **React**, **Next.js**, **Node.js**, and **PostgreSQL**
+- 🧪 Exploring GenAI: LangChain, LangGraph, RAG, AI Agents & LLM Applications
 - 💼 Experienced in building **responsive UIs**, **RESTful APIs**, and **end-to-end applications**
 - 🧪 Passionate about clean code, scalability, and performance
 - 🚀 Currently learning advanced system design and DevOps
